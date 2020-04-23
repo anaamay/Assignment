@@ -1,0 +1,5 @@
+com/xebia/retailer/DemoRestApi1ApplicationTests.class
+com/xebia/retailer/test/controller/BillingControllerTest.class
+com/xebia/retailer/test/controller/CartControllerTest.class
+com/xebia/retailer/test/controller/ProductControllerTest.class
+com/xebia/retailer/test/controller/CustomerControllerTest.class
